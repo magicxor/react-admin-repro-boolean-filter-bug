@@ -1,0 +1,1498 @@
+{
+  "country": [
+    {
+      "id": 4,
+      "name": "Afghanistan",
+      "isSupported": false,
+      "shortName": "AFG"
+    },
+    {
+      "id": 5,
+      "name": "Albania",
+      "isSupported": false,
+      "shortName": "ALB"
+    },
+    {
+      "id": 6,
+      "name": "Algeria",
+      "isSupported": false,
+      "shortName": "DZA"
+    },
+    {
+      "id": 7,
+      "name": "American Samoa",
+      "isSupported": true,
+      "shortName": "ASM"
+    },
+    {
+      "id": 8,
+      "name": "Andorra",
+      "isSupported": true,
+      "shortName": "AND"
+    },
+    {
+      "id": 9,
+      "name": "Angola",
+      "isSupported": true,
+      "shortName": "AGO"
+    },
+    {
+      "id": 10,
+      "name": "Anguilla",
+      "isSupported": true,
+      "shortName": "AIA"
+    },
+    {
+      "id": 11,
+      "name": "Antarctica",
+      "isSupported": true,
+      "shortName": "ATA"
+    },
+    {
+      "id": 12,
+      "name": "Antigua and Barbuda",
+      "isSupported": true,
+      "shortName": "ATG"
+    },
+    {
+      "id": 13,
+      "name": "Argentina",
+      "isSupported": true,
+      "shortName": "ARG"
+    },
+    {
+      "id": 14,
+      "name": "Armenia",
+      "isSupported": true,
+      "shortName": "ARM"
+    },
+    {
+      "id": 15,
+      "name": "Aruba",
+      "isSupported": true,
+      "shortName": "ABW"
+    },
+    {
+      "id": 16,
+      "name": "Australia",
+      "isSupported": true,
+      "shortName": "AUS"
+    },
+    {
+      "id": 17,
+      "name": "Austria",
+      "isSupported": true,
+      "shortName": "AUT"
+    },
+    {
+      "id": 18,
+      "name": "Azerbaijan",
+      "isSupported": true,
+      "shortName": "AZE"
+    },
+    {
+      "id": 19,
+      "name": "Bahamas",
+      "isSupported": true,
+      "shortName": "BHS"
+    },
+    {
+      "id": 20,
+      "name": "Bahrain",
+      "isSupported": true,
+      "shortName": "BHR"
+    },
+    {
+      "id": 21,
+      "name": "Bangladesh",
+      "isSupported": true,
+      "shortName": "BGD"
+    },
+    {
+      "id": 22,
+      "name": "Barbados",
+      "isSupported": true,
+      "shortName": "BRB"
+    },
+    {
+      "id": 23,
+      "name": "Belarus",
+      "isSupported": true,
+      "shortName": "BLR"
+    },
+    {
+      "id": 24,
+      "name": "Belgium",
+      "isSupported": true,
+      "shortName": "BEL"
+    },
+    {
+      "id": 25,
+      "name": "Belize",
+      "isSupported": true,
+      "shortName": "BLZ"
+    },
+    {
+      "id": 26,
+      "name": "Benin",
+      "isSupported": true,
+      "shortName": "BEN"
+    },
+    {
+      "id": 27,
+      "name": "Bermuda",
+      "isSupported": true,
+      "shortName": "BMU"
+    },
+    {
+      "id": 28,
+      "name": "Bhutan",
+      "isSupported": true,
+      "shortName": "BTN"
+    },
+    {
+      "id": 29,
+      "name": "Bolivia",
+      "isSupported": true,
+      "shortName": "BOL"
+    },
+    {
+      "id": 30,
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "isSupported": true,
+      "shortName": "BES"
+    },
+    {
+      "id": 31,
+      "name": "Bosnia and Herzegovina",
+      "isSupported": true,
+      "shortName": "BIH"
+    },
+    {
+      "id": 32,
+      "name": "Botswana",
+      "isSupported": true,
+      "shortName": "BWA"
+    },
+    {
+      "id": 33,
+      "name": "Bouvet Island",
+      "isSupported": true,
+      "shortName": "BVT"
+    },
+    {
+      "id": 34,
+      "name": "Brazil",
+      "isSupported": true,
+      "shortName": "BRA"
+    },
+    {
+      "id": 35,
+      "name": "British Indian Ocean Territory",
+      "isSupported": true,
+      "shortName": "IOT"
+    },
+    {
+      "id": 36,
+      "name": "Brunei Darussalam",
+      "isSupported": true,
+      "shortName": "BRN"
+    },
+    {
+      "id": 37,
+      "name": "Bulgaria",
+      "isSupported": true,
+      "shortName": "BGR"
+    },
+    {
+      "id": 38,
+      "name": "Burkina Faso",
+      "isSupported": true,
+      "shortName": "BFA"
+    },
+    {
+      "id": 39,
+      "name": "Burundi",
+      "isSupported": true,
+      "shortName": "BDI"
+    },
+    {
+      "id": 40,
+      "name": "Cabo Verde",
+      "isSupported": true,
+      "shortName": "CPV"
+    },
+    {
+      "id": 41,
+      "name": "Cambodia",
+      "isSupported": true,
+      "shortName": "KHM"
+    },
+    {
+      "id": 42,
+      "name": "Cameroon",
+      "isSupported": true,
+      "shortName": "CMR"
+    },
+    {
+      "id": 43,
+      "name": "Canada",
+      "isSupported": true,
+      "shortName": "CAN"
+    },
+    {
+      "id": 44,
+      "name": "Cayman Islands",
+      "isSupported": true,
+      "shortName": "CYM"
+    },
+    {
+      "id": 45,
+      "name": "Central African Republic",
+      "isSupported": true,
+      "shortName": "CAF"
+    },
+    {
+      "id": 46,
+      "name": "Chad",
+      "isSupported": true,
+      "shortName": "TCD"
+    },
+    {
+      "id": 47,
+      "name": "Chile",
+      "isSupported": true,
+      "shortName": "CHL"
+    },
+    {
+      "id": 48,
+      "name": "China",
+      "isSupported": true,
+      "shortName": "CHN"
+    },
+    {
+      "id": 49,
+      "name": "Christmas Island",
+      "isSupported": true,
+      "shortName": "CXR"
+    },
+    {
+      "id": 50,
+      "name": "Cocos (Keeling) Islands",
+      "isSupported": true,
+      "shortName": "CCK"
+    },
+    {
+      "id": 51,
+      "name": "Colombia",
+      "isSupported": true,
+      "shortName": "COL"
+    },
+    {
+      "id": 52,
+      "name": "Comoros",
+      "isSupported": true,
+      "shortName": "COM"
+    },
+    {
+      "id": 54,
+      "name": "Congo",
+      "isSupported": true,
+      "shortName": "COG"
+    },
+    {
+      "id": 53,
+      "name": "Congo",
+      "isSupported": true,
+      "shortName": "COD"
+    },
+    {
+      "id": 55,
+      "name": "Cook Islands",
+      "isSupported": true,
+      "shortName": "COK"
+    },
+    {
+      "id": 56,
+      "name": "Costa Rica",
+      "isSupported": true,
+      "shortName": "CRI"
+    },
+    {
+      "id": 57,
+      "name": "Croatia",
+      "isSupported": true,
+      "shortName": "HRV"
+    },
+    {
+      "id": 58,
+      "name": "Cuba",
+      "isSupported": true,
+      "shortName": "CUB"
+    },
+    {
+      "id": 59,
+      "name": "Curaçao",
+      "isSupported": true,
+      "shortName": "CUW"
+    },
+    {
+      "id": 60,
+      "name": "Cyprus",
+      "isSupported": true,
+      "shortName": "CYP"
+    },
+    {
+      "id": 61,
+      "name": "Czechia",
+      "isSupported": true,
+      "shortName": "CZE"
+    },
+    {
+      "id": 62,
+      "name": "Côte d'Ivoire",
+      "isSupported": true,
+      "shortName": "CIV"
+    },
+    {
+      "id": 63,
+      "name": "Denmark",
+      "isSupported": true,
+      "shortName": "DNK"
+    },
+    {
+      "id": 64,
+      "name": "Djibouti",
+      "isSupported": true,
+      "shortName": "DJI"
+    },
+    {
+      "id": 65,
+      "name": "Dominica",
+      "isSupported": true,
+      "shortName": "DMA"
+    },
+    {
+      "id": 66,
+      "name": "Dominican Republic",
+      "isSupported": true,
+      "shortName": "DOM"
+    },
+    {
+      "id": 67,
+      "name": "Ecuador",
+      "isSupported": true,
+      "shortName": "ECU"
+    },
+    {
+      "id": 68,
+      "name": "Egypt",
+      "isSupported": true,
+      "shortName": "EGY"
+    },
+    {
+      "id": 69,
+      "name": "El Salvador",
+      "isSupported": true,
+      "shortName": "SLV"
+    },
+    {
+      "id": 70,
+      "name": "Equatorial Guinea",
+      "isSupported": true,
+      "shortName": "GNQ"
+    },
+    {
+      "id": 71,
+      "name": "Eritrea",
+      "isSupported": true,
+      "shortName": "ERI"
+    },
+    {
+      "id": 72,
+      "name": "Estonia",
+      "isSupported": true,
+      "shortName": "EST"
+    },
+    {
+      "id": 73,
+      "name": "Eswatini",
+      "isSupported": true,
+      "shortName": "SWZ"
+    },
+    {
+      "id": 74,
+      "name": "Ethiopia",
+      "isSupported": true,
+      "shortName": "ETH"
+    },
+    {
+      "id": 75,
+      "name": "Falkland Islands",
+      "isSupported": true,
+      "shortName": "FLK"
+    },
+    {
+      "id": 76,
+      "name": "Faroe Islands",
+      "isSupported": true,
+      "shortName": "FRO"
+    },
+    {
+      "id": 77,
+      "name": "Fiji",
+      "isSupported": true,
+      "shortName": "FJI"
+    },
+    {
+      "id": 78,
+      "name": "Finland",
+      "isSupported": true,
+      "shortName": "FIN"
+    },
+    {
+      "id": 79,
+      "name": "France",
+      "isSupported": true,
+      "shortName": "FRA"
+    },
+    {
+      "id": 80,
+      "name": "French Guiana",
+      "isSupported": true,
+      "shortName": "GUF"
+    },
+    {
+      "id": 81,
+      "name": "French Polynesia",
+      "isSupported": true,
+      "shortName": "PYF"
+    },
+    {
+      "id": 82,
+      "name": "French Southern Territories",
+      "isSupported": true,
+      "shortName": "ATF"
+    },
+    {
+      "id": 83,
+      "name": "Gabon",
+      "isSupported": true,
+      "shortName": "GAB"
+    },
+    {
+      "id": 84,
+      "name": "Gambia",
+      "isSupported": true,
+      "shortName": "GMB"
+    },
+    {
+      "id": 85,
+      "name": "Georgia",
+      "isSupported": true,
+      "shortName": "GEO"
+    },
+    {
+      "id": 86,
+      "name": "Germany",
+      "isSupported": true,
+      "shortName": "DEU"
+    },
+    {
+      "id": 87,
+      "name": "Ghana",
+      "isSupported": true,
+      "shortName": "GHA"
+    },
+    {
+      "id": 88,
+      "name": "Gibraltar",
+      "isSupported": true,
+      "shortName": "GIB"
+    },
+    {
+      "id": 89,
+      "name": "Greece",
+      "isSupported": true,
+      "shortName": "GRC"
+    },
+    {
+      "id": 90,
+      "name": "Greenland",
+      "isSupported": true,
+      "shortName": "GRL"
+    },
+    {
+      "id": 91,
+      "name": "Grenada",
+      "isSupported": true,
+      "shortName": "GRD"
+    },
+    {
+      "id": 92,
+      "name": "Guadeloupe",
+      "isSupported": true,
+      "shortName": "GLP"
+    },
+    {
+      "id": 93,
+      "name": "Guam",
+      "isSupported": true,
+      "shortName": "GUM"
+    },
+    {
+      "id": 94,
+      "name": "Guatemala",
+      "isSupported": true,
+      "shortName": "GTM"
+    },
+    {
+      "id": 95,
+      "name": "Guernsey",
+      "isSupported": true,
+      "shortName": "GGY"
+    },
+    {
+      "id": 96,
+      "name": "Guinea",
+      "isSupported": true,
+      "shortName": "GIN"
+    },
+    {
+      "id": 97,
+      "name": "Guinea-Bissau",
+      "isSupported": true,
+      "shortName": "GNB"
+    },
+    {
+      "id": 98,
+      "name": "Guyana",
+      "isSupported": true,
+      "shortName": "GUY"
+    },
+    {
+      "id": 99,
+      "name": "Haiti",
+      "isSupported": true,
+      "shortName": "HTI"
+    },
+    {
+      "id": 100,
+      "name": "Heard Island and McDonald Islands",
+      "isSupported": true,
+      "shortName": "HMD"
+    },
+    {
+      "id": 101,
+      "name": "Holy See",
+      "isSupported": true,
+      "shortName": "VAT"
+    },
+    {
+      "id": 102,
+      "name": "Honduras",
+      "isSupported": true,
+      "shortName": "HND"
+    },
+    {
+      "id": 103,
+      "name": "Hong Kong",
+      "isSupported": true,
+      "shortName": "HKG"
+    },
+    {
+      "id": 104,
+      "name": "Hungary",
+      "isSupported": true,
+      "shortName": "HUN"
+    },
+    {
+      "id": 105,
+      "name": "Iceland",
+      "isSupported": true,
+      "shortName": "ISL"
+    },
+    {
+      "id": 106,
+      "name": "India",
+      "isSupported": true,
+      "shortName": "IND"
+    },
+    {
+      "id": 107,
+      "name": "Indonesia",
+      "isSupported": true,
+      "shortName": "IDN"
+    },
+    {
+      "id": 108,
+      "name": "Iran",
+      "isSupported": true,
+      "shortName": "IRN"
+    },
+    {
+      "id": 109,
+      "name": "Iraq",
+      "isSupported": true,
+      "shortName": "IRQ"
+    },
+    {
+      "id": 110,
+      "name": "Ireland",
+      "isSupported": true,
+      "shortName": "IRL"
+    },
+    {
+      "id": 111,
+      "name": "Isle of Man",
+      "isSupported": true,
+      "shortName": "IMN"
+    },
+    {
+      "id": 112,
+      "name": "Israel",
+      "isSupported": true,
+      "shortName": "ISR"
+    },
+    {
+      "id": 113,
+      "name": "Italy",
+      "isSupported": true,
+      "shortName": "ITA"
+    },
+    {
+      "id": 114,
+      "name": "Jamaica",
+      "isSupported": true,
+      "shortName": "JAM"
+    },
+    {
+      "id": 115,
+      "name": "Japan",
+      "isSupported": true,
+      "shortName": "JPN"
+    },
+    {
+      "id": 116,
+      "name": "Jersey",
+      "isSupported": true,
+      "shortName": "JEY"
+    },
+    {
+      "id": 117,
+      "name": "Jordan",
+      "isSupported": true,
+      "shortName": "JOR"
+    },
+    {
+      "id": 118,
+      "name": "Kazakhstan",
+      "isSupported": true,
+      "shortName": "KAZ"
+    },
+    {
+      "id": 119,
+      "name": "Kenya",
+      "isSupported": true,
+      "shortName": "KEN"
+    },
+    {
+      "id": 120,
+      "name": "Kiribati",
+      "isSupported": true,
+      "shortName": "KIR"
+    },
+    {
+      "id": 123,
+      "name": "Kuwait",
+      "isSupported": true,
+      "shortName": "KWT"
+    },
+    {
+      "id": 124,
+      "name": "Kyrgyzstan",
+      "isSupported": true,
+      "shortName": "KGZ"
+    },
+    {
+      "id": 125,
+      "name": "Lao People's Democratic Republic",
+      "isSupported": true,
+      "shortName": "LAO"
+    },
+    {
+      "id": 126,
+      "name": "Latvia",
+      "isSupported": true,
+      "shortName": "LVA"
+    },
+    {
+      "id": 127,
+      "name": "Lebanon",
+      "isSupported": true,
+      "shortName": "LBN"
+    },
+    {
+      "id": 128,
+      "name": "Lesotho",
+      "isSupported": true,
+      "shortName": "LSO"
+    },
+    {
+      "id": 129,
+      "name": "Liberia",
+      "isSupported": true,
+      "shortName": "LBR"
+    },
+    {
+      "id": 130,
+      "name": "Libya",
+      "isSupported": true,
+      "shortName": "LBY"
+    },
+    {
+      "id": 131,
+      "name": "Liechtenstein",
+      "isSupported": true,
+      "shortName": "LIE"
+    },
+    {
+      "id": 132,
+      "name": "Lithuania",
+      "isSupported": true,
+      "shortName": "LTU"
+    },
+    {
+      "id": 133,
+      "name": "Luxembourg",
+      "isSupported": true,
+      "shortName": "LUX"
+    },
+    {
+      "id": 134,
+      "name": "Macao",
+      "isSupported": true,
+      "shortName": "MAC"
+    },
+    {
+      "id": 135,
+      "name": "Madagascar",
+      "isSupported": true,
+      "shortName": "MDG"
+    },
+    {
+      "id": 136,
+      "name": "Malawi",
+      "isSupported": true,
+      "shortName": "MWI"
+    },
+    {
+      "id": 137,
+      "name": "Malaysia",
+      "isSupported": true,
+      "shortName": "MYS"
+    },
+    {
+      "id": 138,
+      "name": "Maldives",
+      "isSupported": true,
+      "shortName": "MDV"
+    },
+    {
+      "id": 139,
+      "name": "Mali",
+      "isSupported": true,
+      "shortName": "MLI"
+    },
+    {
+      "id": 140,
+      "name": "Malta",
+      "isSupported": true,
+      "shortName": "MLT"
+    },
+    {
+      "id": 141,
+      "name": "Marshall Islands",
+      "isSupported": true,
+      "shortName": "MHL"
+    },
+    {
+      "id": 142,
+      "name": "Martinique",
+      "isSupported": true,
+      "shortName": "MTQ"
+    },
+    {
+      "id": 143,
+      "name": "Mauritania",
+      "isSupported": true,
+      "shortName": "MRT"
+    },
+    {
+      "id": 144,
+      "name": "Mauritius",
+      "isSupported": true,
+      "shortName": "MUS"
+    },
+    {
+      "id": 145,
+      "name": "Mayotte",
+      "isSupported": true,
+      "shortName": "MYT"
+    },
+    {
+      "id": 146,
+      "name": "Mexico",
+      "isSupported": true,
+      "shortName": "MEX"
+    },
+    {
+      "id": 147,
+      "name": "Micronesia",
+      "isSupported": true,
+      "shortName": "FSM"
+    },
+    {
+      "id": 148,
+      "name": "Moldova",
+      "isSupported": true,
+      "shortName": "MDA"
+    },
+    {
+      "id": 149,
+      "name": "Monaco",
+      "isSupported": true,
+      "shortName": "MCO"
+    },
+    {
+      "id": 150,
+      "name": "Mongolia",
+      "isSupported": true,
+      "shortName": "MNG"
+    },
+    {
+      "id": 151,
+      "name": "Montenegro",
+      "isSupported": true,
+      "shortName": "MNE"
+    },
+    {
+      "id": 152,
+      "name": "Montserrat",
+      "isSupported": true,
+      "shortName": "MSR"
+    },
+    {
+      "id": 153,
+      "name": "Morocco",
+      "isSupported": true,
+      "shortName": "MAR"
+    },
+    {
+      "id": 154,
+      "name": "Mozambique",
+      "isSupported": true,
+      "shortName": "MOZ"
+    },
+    {
+      "id": 155,
+      "name": "Myanmar",
+      "isSupported": true,
+      "shortName": "MMR"
+    },
+    {
+      "id": 156,
+      "name": "Namibia",
+      "isSupported": true,
+      "shortName": "NAM"
+    },
+    {
+      "id": 157,
+      "name": "Nauru",
+      "isSupported": true,
+      "shortName": "NRU"
+    },
+    {
+      "id": 158,
+      "name": "Nepal",
+      "isSupported": true,
+      "shortName": "NPL"
+    },
+    {
+      "id": 159,
+      "name": "Netherlands",
+      "isSupported": true,
+      "shortName": "NLD"
+    },
+    {
+      "id": 160,
+      "name": "New Caledonia",
+      "isSupported": true,
+      "shortName": "NCL"
+    },
+    {
+      "id": 161,
+      "name": "New Zealand",
+      "isSupported": true,
+      "shortName": "NZL"
+    },
+    {
+      "id": 162,
+      "name": "Nicaragua",
+      "isSupported": true,
+      "shortName": "NIC"
+    },
+    {
+      "id": 163,
+      "name": "Niger",
+      "isSupported": true,
+      "shortName": "NER"
+    },
+    {
+      "id": 164,
+      "name": "Nigeria",
+      "isSupported": true,
+      "shortName": "NGA"
+    },
+    {
+      "id": 165,
+      "name": "Niue",
+      "isSupported": true,
+      "shortName": "NIU"
+    },
+    {
+      "id": 166,
+      "name": "Norfolk Island",
+      "isSupported": true,
+      "shortName": "NFK"
+    },
+    {
+      "id": 121,
+      "name": "North Korea",
+      "isSupported": true,
+      "shortName": "PRK"
+    },
+    {
+      "id": 167,
+      "name": "Northern Mariana Islands",
+      "isSupported": true,
+      "shortName": "MNP"
+    },
+    {
+      "id": 168,
+      "name": "Norway",
+      "isSupported": true,
+      "shortName": "NOR"
+    },
+    {
+      "id": 169,
+      "name": "Oman",
+      "isSupported": true,
+      "shortName": "OMN"
+    },
+    {
+      "id": 170,
+      "name": "Pakistan",
+      "isSupported": true,
+      "shortName": "PAK"
+    },
+    {
+      "id": 171,
+      "name": "Palau",
+      "isSupported": true,
+      "shortName": "PLW"
+    },
+    {
+      "id": 172,
+      "name": "Palestine",
+      "isSupported": true,
+      "shortName": "PSE"
+    },
+    {
+      "id": 173,
+      "name": "Panama",
+      "isSupported": true,
+      "shortName": "PAN"
+    },
+    {
+      "id": 174,
+      "name": "Papua New Guinea",
+      "isSupported": true,
+      "shortName": "PNG"
+    },
+    {
+      "id": 175,
+      "name": "Paraguay",
+      "isSupported": true,
+      "shortName": "PRY"
+    },
+    {
+      "id": 176,
+      "name": "Peru",
+      "isSupported": true,
+      "shortName": "PER"
+    },
+    {
+      "id": 177,
+      "name": "Philippines",
+      "isSupported": true,
+      "shortName": "PHL"
+    },
+    {
+      "id": 178,
+      "name": "Pitcairn",
+      "isSupported": true,
+      "shortName": "PCN"
+    },
+    {
+      "id": 179,
+      "name": "Poland",
+      "isSupported": true,
+      "shortName": "POL"
+    },
+    {
+      "id": 180,
+      "name": "Portugal",
+      "isSupported": true,
+      "shortName": "PRT"
+    },
+    {
+      "id": 181,
+      "name": "Puerto Rico",
+      "isSupported": true,
+      "shortName": "PRI"
+    },
+    {
+      "id": 182,
+      "name": "Qatar",
+      "isSupported": true,
+      "shortName": "QAT"
+    },
+    {
+      "id": 183,
+      "name": "Republic of North Macedonia",
+      "isSupported": true,
+      "shortName": "MKD"
+    },
+    {
+      "id": 184,
+      "name": "Romania",
+      "isSupported": true,
+      "shortName": "ROU"
+    },
+    {
+      "id": 185,
+      "name": "Russian Federation",
+      "isSupported": true,
+      "shortName": "RUS"
+    },
+    {
+      "id": 186,
+      "name": "Rwanda",
+      "isSupported": true,
+      "shortName": "RWA"
+    },
+    {
+      "id": 187,
+      "name": "Réunion",
+      "isSupported": true,
+      "shortName": "REU"
+    },
+    {
+      "id": 188,
+      "name": "Saint Barthélemy",
+      "isSupported": true,
+      "shortName": "BLM"
+    },
+    {
+      "id": 189,
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "isSupported": true,
+      "shortName": "SHN"
+    },
+    {
+      "id": 190,
+      "name": "Saint Kitts and Nevis",
+      "isSupported": true,
+      "shortName": "KNA"
+    },
+    {
+      "id": 191,
+      "name": "Saint Lucia",
+      "isSupported": true,
+      "shortName": "LCA"
+    },
+    {
+      "id": 192,
+      "name": "Saint Martin",
+      "isSupported": true,
+      "shortName": "MAF"
+    },
+    {
+      "id": 193,
+      "name": "Saint Pierre and Miquelon",
+      "isSupported": true,
+      "shortName": "SPM"
+    },
+    {
+      "id": 194,
+      "name": "Saint Vincent and the Grenadines",
+      "isSupported": true,
+      "shortName": "VCT"
+    },
+    {
+      "id": 195,
+      "name": "Samoa",
+      "isSupported": true,
+      "shortName": "WSM"
+    },
+    {
+      "id": 196,
+      "name": "San Marino",
+      "isSupported": true,
+      "shortName": "SMR"
+    },
+    {
+      "id": 197,
+      "name": "Sao Tome and Principe",
+      "isSupported": true,
+      "shortName": "STP"
+    },
+    {
+      "id": 198,
+      "name": "Saudi Arabia",
+      "isSupported": true,
+      "shortName": "SAU"
+    },
+    {
+      "id": 199,
+      "name": "Senegal",
+      "isSupported": true,
+      "shortName": "SEN"
+    },
+    {
+      "id": 200,
+      "name": "Serbia",
+      "isSupported": true,
+      "shortName": "SRB"
+    },
+    {
+      "id": 201,
+      "name": "Seychelles",
+      "isSupported": true,
+      "shortName": "SYC"
+    },
+    {
+      "id": 202,
+      "name": "Sierra Leone",
+      "isSupported": true,
+      "shortName": "SLE"
+    },
+    {
+      "id": 203,
+      "name": "Singapore",
+      "isSupported": true,
+      "shortName": "SGP"
+    },
+    {
+      "id": 204,
+      "name": "Sint Maarten",
+      "isSupported": true,
+      "shortName": "SXM"
+    },
+    {
+      "id": 205,
+      "name": "Slovakia",
+      "isSupported": true,
+      "shortName": "SVK"
+    },
+    {
+      "id": 206,
+      "name": "Slovenia",
+      "isSupported": true,
+      "shortName": "SVN"
+    },
+    {
+      "id": 207,
+      "name": "Solomon Islands",
+      "isSupported": true,
+      "shortName": "SLB"
+    },
+    {
+      "id": 208,
+      "name": "Somalia",
+      "isSupported": true,
+      "shortName": "SOM"
+    },
+    {
+      "id": 209,
+      "name": "South Africa",
+      "isSupported": true,
+      "shortName": "ZAF"
+    },
+    {
+      "id": 210,
+      "name": "South Georgia and the South Sandwich Islands",
+      "isSupported": true,
+      "shortName": "SGS"
+    },
+    {
+      "id": 122,
+      "name": "South Korea",
+      "isSupported": true,
+      "shortName": "KOR"
+    },
+    {
+      "id": 211,
+      "name": "South Sudan",
+      "isSupported": true,
+      "shortName": "SSD"
+    },
+    {
+      "id": 212,
+      "name": "Spain",
+      "isSupported": true,
+      "shortName": "ESP"
+    },
+    {
+      "id": 213,
+      "name": "Sri Lanka",
+      "isSupported": true,
+      "shortName": "LKA"
+    },
+    {
+      "id": 214,
+      "name": "Sudan",
+      "isSupported": true,
+      "shortName": "SDN"
+    },
+    {
+      "id": 215,
+      "name": "Suriname",
+      "isSupported": true,
+      "shortName": "SUR"
+    },
+    {
+      "id": 216,
+      "name": "Svalbard and Jan Mayen",
+      "isSupported": true,
+      "shortName": "SJM"
+    },
+    {
+      "id": 217,
+      "name": "Sweden",
+      "isSupported": true,
+      "shortName": "SWE"
+    },
+    {
+      "id": 218,
+      "name": "Switzerland",
+      "isSupported": true,
+      "shortName": "CHE"
+    },
+    {
+      "id": 219,
+      "name": "Syrian Arab Republic",
+      "isSupported": true,
+      "shortName": "SYR"
+    },
+    {
+      "id": 220,
+      "name": "Taiwan",
+      "isSupported": true,
+      "shortName": "TWN"
+    },
+    {
+      "id": 221,
+      "name": "Tajikistan",
+      "isSupported": true,
+      "shortName": "TJK"
+    },
+    {
+      "id": 222,
+      "name": "Tanzania",
+      "isSupported": true,
+      "shortName": "TZA"
+    },
+    {
+      "id": 223,
+      "name": "Thailand",
+      "isSupported": true,
+      "shortName": "THA"
+    },
+    {
+      "id": 224,
+      "name": "Timor-Leste",
+      "isSupported": true,
+      "shortName": "TLS"
+    },
+    {
+      "id": 225,
+      "name": "Togo",
+      "isSupported": true,
+      "shortName": "TGO"
+    },
+    {
+      "id": 226,
+      "name": "Tokelau",
+      "isSupported": true,
+      "shortName": "TKL"
+    },
+    {
+      "id": 227,
+      "name": "Tonga",
+      "isSupported": true,
+      "shortName": "TON"
+    },
+    {
+      "id": 228,
+      "name": "Trinidad and Tobago",
+      "isSupported": true,
+      "shortName": "TTO"
+    },
+    {
+      "id": 229,
+      "name": "Tunisia",
+      "isSupported": true,
+      "shortName": "TUN"
+    },
+    {
+      "id": 230,
+      "name": "Turkey",
+      "isSupported": true,
+      "shortName": "TUR"
+    },
+    {
+      "id": 231,
+      "name": "Turkmenistan",
+      "isSupported": true,
+      "shortName": "TKM"
+    },
+    {
+      "id": 232,
+      "name": "Turks and Caicos Islands",
+      "isSupported": true,
+      "shortName": "TCA"
+    },
+    {
+      "id": 233,
+      "name": "Tuvalu",
+      "isSupported": true,
+      "shortName": "TUV"
+    },
+    {
+      "id": 234,
+      "name": "Uganda",
+      "isSupported": true,
+      "shortName": "UGA"
+    },
+    {
+      "id": 235,
+      "name": "Ukraine",
+      "isSupported": true,
+      "shortName": "UKR"
+    },
+    {
+      "id": 3,
+      "name": "United Arab Emirates",
+      "isSupported": true,
+      "shortName": "ARE"
+    },
+    {
+      "id": 2,
+      "name": "United Kingdom",
+      "isSupported": true,
+      "shortName": "GBR"
+    },
+    {
+      "id": 236,
+      "name": "United States Minor Outlying Islands",
+      "isSupported": true,
+      "shortName": "UMI"
+    },
+    {
+      "id": 1,
+      "name": "United States of America",
+      "isSupported": true,
+      "shortName": "USA"
+    },
+    {
+      "id": 237,
+      "name": "Uruguay",
+      "isSupported": true,
+      "shortName": "URY"
+    },
+    {
+      "id": 238,
+      "name": "Uzbekistan",
+      "isSupported": true,
+      "shortName": "UZB"
+    },
+    {
+      "id": 239,
+      "name": "Vanuatu",
+      "isSupported": true,
+      "shortName": "VUT"
+    },
+    {
+      "id": 240,
+      "name": "Venezuela",
+      "isSupported": true,
+      "shortName": "VEN"
+    },
+    {
+      "id": 241,
+      "name": "Viet Nam",
+      "isSupported": true,
+      "shortName": "VNM"
+    },
+    {
+      "id": 242,
+      "name": "Virgin Islands (British)",
+      "isSupported": true,
+      "shortName": "VGB"
+    },
+    {
+      "id": 243,
+      "name": "Virgin Islands (U.S.)",
+      "isSupported": true,
+      "shortName": "VIR"
+    },
+    {
+      "id": 244,
+      "name": "Wallis and Futuna",
+      "isSupported": true,
+      "shortName": "WLF"
+    },
+    {
+      "id": 245,
+      "name": "Western Sahara",
+      "isSupported": true,
+      "shortName": "ESH"
+    },
+    {
+      "id": 246,
+      "name": "Yemen",
+      "isSupported": true,
+      "shortName": "YEM"
+    },
+    {
+      "id": 247,
+      "name": "Zambia",
+      "isSupported": true,
+      "shortName": "ZMB"
+    },
+    {
+      "id": 248,
+      "name": "Zimbabwe",
+      "isSupported": true,
+      "shortName": "ZWE"
+    },
+    {
+      "id": 249,
+      "name": "Åland Islands",
+      "isSupported": true,
+      "shortName": "ALA"
+    }
+  ]
+}
